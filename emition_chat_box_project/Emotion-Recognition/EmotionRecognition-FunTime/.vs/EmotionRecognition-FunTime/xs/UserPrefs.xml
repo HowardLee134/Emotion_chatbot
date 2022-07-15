@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9E66E81C-7B14-463D-8945-B5C0D386D08E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmotionRecognition-FunTime/Controllers/TextAnalysisController.cs">
+    <Files>
+      <File FileName="EmotionRecognition-FunTime/Models/QnaModel.cs" Line="1" Column="1" />
+      <File FileName="EmotionRecognition-FunTime/Models/TextAnalyticModel.cs" Line="1" Column="1" />
+      <File FileName="EmotionRecognition-FunTime/Models/User.cs" Line="1" Column="1" />
+      <File FileName="EmotionRecognition-FunTime/Controllers/TextAnalysisController.cs" Line="55" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmotionRecognition-FunTime" expanded="True">
+            <Node name="EmotionRecognition-FunTime" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TextAnalysisController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmotionRecognition-FunTime PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
